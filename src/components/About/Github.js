@@ -1,22 +1,24 @@
 import React from "react";
-import GitHubCalendar from "react-github-calendar";
-import { Row } from "react-bootstrap";
 
-function Github() {
+function TestLink() {
   return (
-    <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-      <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
-        Days I <strong className="purple">Code</strong>
-      </h1>
-      <GitHubCalendar
-        username="soumyajit4419"
-        blockSize={15}
-        blockMargin={5}
-        color="#c084f5"
-        fontSize={16}
-      />
-    </Row>
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <a
+        href='https://www.hackerrank.com/nihith949'
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{
+          fontSize: "1.2rem",
+          color: "#2EC866",
+          fontWeight: "bold",
+          textDecoration: "none",
+          padding: "10px 20px",
+          borderRadius: "8px",
+        }}
+      >
+      </a>
+    </div>
   );
 }
 
-export default Github;
+export default TestLink;
