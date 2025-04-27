@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://my-portfolio-drab-three-68.vercel.app/" target="_blank">nihith.vercel.app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./src/Assets/Projects/MyPhoto.jpg" />
 </div>
 
 <br/>
@@ -13,42 +13,40 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Nihith2/my-portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/Nihith2/my-portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own.  
+Please give proper credit if you use my design. Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio [nihith.vercel.app](https://my-portfolio-drab-three-68.vercel.app/) which features some of my GitHub projects as well as my resume and technical skills.
 
-This project was built using these technologies.
+This project was built using these technologies:
 
-- React.js
-- Node.js
-- Express.js
+- React.js (if your portfolio is React)
+- Vite (if you used Vite)
 - CSS3
-- VsCode
+- Visual Studio Code
 - Vercel
 
 ## Features
 
-**📖 Multi-Page Layout**
+**📖 Single-Page or Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with pure CSS or Tailwind (based on what you used)**
 
-**📱 Fully Responsive**
+**📱 Fully Responsive for Mobile and Desktop**
 
 ## Getting Started
 
@@ -58,19 +56,16 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 1. Installation: `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. To start the project locally: `npm run dev` or `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Runs the app in development mode.  
+Open [http://localhost:3000](http://localhost:3000) to view it.
 
 ## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Open the project folder and navigate to `/src/Components/` (or `/src` depending on your structure).  
+You will find all the components — edit your information there.
 
 ### Show your support
 
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Give a ⭐️ if you like this website!
