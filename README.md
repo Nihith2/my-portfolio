@@ -14,12 +14,7 @@
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/Nihith2/my-portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/Nihith2/my-portfolio/issues">Request Feature</a>
-</h3>
+
 
 ## TL;DR
 
