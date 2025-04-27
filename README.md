@@ -2,9 +2,7 @@
   Portfolio Website <br/>
   <a href="https://my-portfolio-drab-three-68.vercel.app/" target="_blank">nihith.vercel.app</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./src/Assets/Projects/MyPhoto.jpg" />
-</div>
+
 
 <br/>
 
